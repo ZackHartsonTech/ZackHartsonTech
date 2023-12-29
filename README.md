@@ -1,8 +1,5 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/
-<WORD_LEFT>-<WORD_RIGHT>-informational
-?style=flat&logo=<LOGONAME>
-&logoColor=white&color=2bbc8a)
+
 <!--
 **ZackHartsonTech/ZackHartsonTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
